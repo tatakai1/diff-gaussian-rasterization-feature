@@ -1,6 +1,6 @@
 It's a clone of https://github.com/dcharatan/diff-gaussian-rasterization-modified.
 Modifications:
-- render NUM_CHANNELS=19 <font color=green>// Default 3, RGB</font>
+- render NUM_CHANNELS=10 <font color=green>// Default 3, RGB</font>
 
 
 # Differential Gaussian Rasterization
